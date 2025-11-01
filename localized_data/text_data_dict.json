@@ -43211,16 +43211,16 @@
         "44": "Bond gauge of all support cards and all allies <color=#FF6D26>+{0}</color>\\\\nFriend and group types excluded."
     },
     "397": {
-        "1": "Onsen Yukoma",
-        "2": "Onsen Kecepatan",
-        "3": "Onsen Ketabahan",
-        "4": "Onsen Kecerdasan",
-        "5": "Onsen Kuno Kecepatan",
-        "6": "Onsen Kuno Kekuatan",
-        "7": "Onsen Kuno Kesehatan",
-        "8": "Onsen Sayap Langit",
-        "9": "Onsen Rahasia Yukoma",
-        "10": "Onsen Legendaris"
+        "1": "<size=36>Onsen Yukoma</size>",
+        "2": "<size=36>Onsen Kecepatan</size>",
+        "3": "<size=36>Onsen Ketabahan</size>",
+        "4": "<size=36>Onsen Kecerdasan</size>",
+        "5": "<size=36>Onsen Kuno Kecepatan</size>",
+        "6": "<size=36>Onsen Kuno Kekuatan</size>",
+        "7": "<size=36>Onsen Kuno Kesehatan</size>",
+        "8": "<size=36>Onsen Sayap Langit</size>",
+        "9": "<size=36>Onsen Rahasia Yukoma</size>",
+        "10": "<size=36>Onsen Legendaris</size>"
     },
     "416": {
         "1": "Jalan-Jalan"
@@ -43232,7 +43232,7 @@
     },
     "398": {
         "1": "Efek latihan meningkat <color=#ff911c>10%</color>",
-        "2": "Meningkatkan Bond Gauge untuk 3 karakter yang rendah sebesar<color=#ff911c>10</color>",
+        "2": "Meningkatkan Bond Gauge untuk 3 karakter yang rendah\nsebesar<color=#ff911c>10</color>",
         "3": "Semua kondisi negatif akan sembuh",
         "4": "Menurunkan tingkat gagal sebesar <color=#ff911c>20%</color>",
         "5": "Motivasi<color=#ff911c>+1</color>",
@@ -43329,5 +43329,10 @@
         "1040001": "Semua kondisi negatif disembuhkan",
         "1070000": "Efek perolehan Hint aktif dua kali",
         "1080000": "Batas stamina sementara meningkat hingga 150"
+    },
+    "402": {
+        "1": "Hole Digger",
+        "2": "Earth Drill",
+        "3": "Metal Crown"
     }
 }
