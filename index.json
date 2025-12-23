@@ -10970,8 +10970,8 @@
     },
     {
       "path": "hashed_dict.json",
-      "hash": "e2454a4f983b71c6e50aaeca563623c740816b9bc3bf91d73002e272dd3690d1",
-      "size": 5636
+      "hash": "4bfba70f5aae8cbb375355c4da952e591da80e26585f9a088534c4ff0848af45",
+      "size": 5643
     },
     {
       "path": "includes_android",
@@ -10985,8 +10985,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "4de1b053ba4c0c134ddd280c3d2e6ae93790e5bfed214d1a63ae09bda11cf33e",
-      "size": 278212
+      "hash": "3b61b17c28ab9adf3717e56bfe998aea54e32b4b7cbe1ae9c2f37fa2555ce2c3",
+      "size": 278133
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -11000,8 +11000,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "331f1a249ec06bd993b06d8ed01e62f2e35bc118f68c5e69435b462b502adebc",
-      "size": 2372362
+      "hash": "a4fbbc68b5bb6fd21a0f9758a1834e1273fb63b3d089088dfed9bfd412e88527",
+      "size": 2372345
     }
   ]
 }
