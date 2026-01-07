@@ -60,8 +60,8 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_footer_btn00/tx_uTex_fl_footer_btn00_0.diff.png",
-      "hash": "8399f0d6c3c7304611361355fb779b831ac4afb8fda1dc8e01f054d5f9f6a32e",
-      "size": 58294
+      "hash": "23a239eb2ac56e61dda5062094e14a36fdf271f33acc65747cdcce29595bd32b",
+      "size": 60762
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_footer_landscape_btn00/tx_uTex_fl_footer_landscape_btn00_0.diff.png",
@@ -335,8 +335,8 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_icon_motivation00/tx_uTex_fl_singlemode_icon_motivation00_0.diff.png",
-      "hash": "01552e7cd1e54044df24abb211f190a34631836564d5fcadca0fc4d03f62b95d",
-      "size": 36437
+      "hash": "f1541a59ae926f31c2e9c4d3538686c5ad77e239fc979e2073ccdb6eb6256d99",
+      "size": 29575
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_legend_enter_masterly01/tx_uTex_fl_singlemode_legend_enter_masterly01_0.diff.png",
@@ -750,8 +750,8 @@
     },
     {
       "path": "assets/atlas/common/common.diff.png",
-      "hash": "c1f4e7fc490ff63351d6a2b9ceb2cf8e0dd036fedf153341d1ce6e93087f4a18",
-      "size": 382057
+      "hash": "01b1e5ccfc6bbd997071c4e6df1b1fdb94142bf76405e74b1c1c8bad123606d3",
+      "size": 318335
     },
     {
       "path": "assets/atlas/common/common.json",
@@ -790,8 +790,8 @@
     },
     {
       "path": "assets/atlas/home/home.diff.png",
-      "hash": "6f2de28cea6ea1e2ffa429ee224d249a070e851dc7349c15c81fefe53c684b12",
-      "size": 132652
+      "hash": "155085d8f10d3953fcd03dbfa128d85ce1d7fc7c5c64381cc0b3a9d919009f88",
+      "size": 97915
     },
     {
       "path": "assets/atlas/home/home.json",
@@ -877,6 +877,11 @@
       "path": "assets/atlas/schedulebook/schedulebook.json",
       "hash": "ec2e27a7604ea30b59c91baaeea9811166aa6e3319a5c00b561b999fe8c60ed9",
       "size": 150
+    },
+    {
+      "path": "assets/atlas/single/single.diff.png",
+      "hash": "2a144f371ef9cfbb75dcf3783537657119b73e74e55620816bbc5178a63ced6a",
+      "size": 154602
     },
     {
       "path": "assets/atlas/single/single.json",
@@ -1780,13 +1785,13 @@
     },
     {
       "path": "assets/lyrics/m1025_lyrics.json",
-      "hash": "6e46dd10defc9b56c29a6ec56b508c21f54c08192194e4df25bf36f0c9c3c279",
-      "size": 2
+      "hash": "bf544a06a90c4a883f32631bb891044e4ead95e4dfce8300835bf7b08d9b9024",
+      "size": 1023
     },
     {
       "path": "assets/lyrics/m1026_lyrics.json",
-      "hash": "38698e116ed3ed77d4f1004ca320be40ecfb91cbebc1de4ccf56cbefff0fe4e0",
-      "size": 598
+      "hash": "73fc5f70537f131ce520e528009ee3cbcd4a3e92333b6508343b32c762cdb003",
+      "size": 546
     },
     {
       "path": "assets/lyrics/m1027_lyrics.json",
@@ -1890,13 +1895,13 @@
     },
     {
       "path": "assets/lyrics/m1082_lyrics.json",
-      "hash": "0fbda450bff0928f7647bec6575f09d1476624ff1f457fa1f39ba9cb368d8cf0",
-      "size": 1203
+      "hash": "b64efa67b96a8ed29ce34fdaeee93a3a7e0d2e01a1e1f0593955114bb73550f6",
+      "size": 951
     },
     {
       "path": "assets/lyrics/m1083_lyrics.json",
-      "hash": "ab3ba73eb82f9e8cf5ded2c26a60993509cf685519b96901d37c507ae115459d",
-      "size": 3776
+      "hash": "da066d774afa1bff00245e98adc80503ba0a57da62d0728236148dac5ef327fe",
+      "size": 3725
     },
     {
       "path": "assets/lyrics/m1088_lyrics.json",
@@ -1920,13 +1925,18 @@
     },
     {
       "path": "assets/lyrics/m1094_lyrics.json",
-      "hash": "6e46dd10defc9b56c29a6ec56b508c21f54c08192194e4df25bf36f0c9c3c279",
-      "size": 2
+      "hash": "8c52f8cffd15ca10971ecc2c721e6ebbbb3a459f91b6fc87d98ea1ebc1d8ce53",
+      "size": 1089
     },
     {
       "path": "assets/lyrics/m1095_lyrics.json",
       "hash": "9758ea19b6c91143a961a1ab8e7c9f8203b27314ac4e61080c19d2dd9cf659f7",
       "size": 945
+    },
+    {
+      "path": "assets/lyrics/m1126_lyrics.json",
+      "hash": "b415add99cc52774ed09a139de4e9e2afd4bdc01c0fb2f17d3369de7d1897953",
+      "size": 1088
     },
     {
       "path": "assets/lyrics/m1151_lyrics.json",
@@ -1950,8 +1960,8 @@
     },
     {
       "path": "assets/lyrics/m1155_lyrics.json",
-      "hash": "003994924634bfea321166487ec0eba6cb1de46c19507482e6db1d2d3e632f90",
-      "size": 1801
+      "hash": "5657e6d3e297a4ab7e413a8ac254da9989a84f2c5384f57a7dffb47f2c7cd461",
+      "size": 1576
     },
     {
       "path": "assets/lyrics/m1156_lyrics.json",
@@ -4844,6 +4854,11 @@
       "size": 10154
     },
     {
+      "path": "assets/story/data/04/1073/storytimeline_041073002.json",
+      "hash": "8718fb4a030fe79ec21870d4a671c97bcd708d13c17485c558bc4ac91161aa49",
+      "size": 9279
+    },
+    {
       "path": "assets/story/data/04/1076/storytimeline_041076001.json",
       "hash": "88f371997a44b3be5921fe19cffa5392a741e7a76dc3cd37c7b00a928e9d215c",
       "size": 6866
@@ -7315,8 +7330,28 @@
     },
     {
       "path": "assets/story/data/40/0001/storytimeline_400001002.json",
-      "hash": "4a9082289cc4633b92747238adeeee72cb31c1167f7730ae990877f95b790d6a",
-      "size": 10582
+      "hash": "373cd6b755963c6164afa8c46a43bde5bf59d79ad50afd40775b51fde2520c6b",
+      "size": 10622
+    },
+    {
+      "path": "assets/story/data/40/0001/storytimeline_400001013.json",
+      "hash": "dca44f79a4a761d59b92cafe39f0e3ed0ce24c9b1d0c66081770d8f3b09daf47",
+      "size": 10426
+    },
+    {
+      "path": "assets/story/data/40/0001/storytimeline_400001014.json",
+      "hash": "c1d38700face334504f11c032fb29ff182952defb82b4792c600c8b5e81a1dc4",
+      "size": 11796
+    },
+    {
+      "path": "assets/story/data/40/0001/storytimeline_400001015.json",
+      "hash": "05bad7224c175c8fb86d29ed7a9d3364a954e52becb9b3f3e66381df14ae1897",
+      "size": 7068
+    },
+    {
+      "path": "assets/story/data/40/0001/storytimeline_400001016.json",
+      "hash": "e96c445692b88f0acc57ef3b93f5796ee162355bb52eb8e7eb7b311a8c319a38",
+      "size": 9214
     },
     {
       "path": "assets/story/data/40/0004/storytimeline_400004249.json",
@@ -9869,11 +9904,6 @@
       "size": 1053524
     },
     {
-      "path": "assets/textures/outgame/comic/tex_comic_1001_01.png",
-      "hash": "b532e2b6d1417dd8a942581bd7de4273f33589b41e60cbc4322d530f268468d3",
-      "size": 1370461
-    },
-    {
       "path": "assets/textures/outgame/comic/tex_comic_1001_02.diff.png",
       "hash": "e4fa030b9e7fff1a54cd12ff15e98b437525e5bb4c1b7bb7f61fe6558838e831",
       "size": 924932
@@ -10820,28 +10850,28 @@
     },
     {
       "path": "assets/textures/uianimation/flash/singlemode/statusicon/utx_ico_motivation_l_00.diff.png",
-      "hash": "0de8a17d86cfdfee7c7cddd5c279d02f47b252cc0ee0a73dee852f1b90939823",
-      "size": 22907
+      "hash": "ba7a92acbfd6c4e73f8b49af7cc639817ee641bc6a8cd966c7a2e913bcf2bc06",
+      "size": 22338
     },
     {
       "path": "assets/textures/uianimation/flash/singlemode/statusicon/utx_ico_motivation_l_01.diff.png",
-      "hash": "309a31f2cecd83e820235609be251978d5582ddf886c60b4496ceafba134d854",
-      "size": 22117
+      "hash": "b67160f82158daa5faa97c069ed94ddf6d11b0088a92cfbee3afaa4805952c32",
+      "size": 16519
     },
     {
       "path": "assets/textures/uianimation/flash/singlemode/statusicon/utx_ico_motivation_l_02.diff.png",
-      "hash": "bbb2b6457f0c7b32f595de33b5992e4f643788c8c1d2e4d2a2c7bbe269c78bec",
-      "size": 21870
+      "hash": "a1cd7a9e38422c83cd3e7029634af9d29f129da0cb82c790c617051342210793",
+      "size": 17603
     },
     {
       "path": "assets/textures/uianimation/flash/singlemode/statusicon/utx_ico_motivation_l_03.diff.png",
-      "hash": "8b1e46d262e957920033ce6631c73dab88c47c4b108a84b5f6b772f953d9d8c1",
-      "size": 24465
+      "hash": "63bf3ca20357b297ba2e7e4e2e92eb0258ae0c65f847a79a5e88eeb72dbbab37",
+      "size": 17819
     },
     {
       "path": "assets/textures/uianimation/flash/singlemode/statusicon/utx_ico_motivation_l_04.diff.png",
-      "hash": "d7afb0fb319b2a944e608d3ddb2a015f2e7151a5f340be9625ee7ad5483b4ce8",
-      "size": 24543
+      "hash": "11e9b79524a7600341a952f75e0c6ee2d893376d42704259ceccef15175e2a50",
+      "size": 19911
     },
     {
       "path": "assets/uianimation/flash/champions/pf_fl_champions_result_finalranking00.json",
@@ -11325,8 +11355,8 @@
     },
     {
       "path": "character_system_text_dict.json",
-      "hash": "494ed54551d3f9a3bcadb72e537896d867b0bfd7f7c4fa6dbd00b6a9a8efa1d9",
-      "size": 220933
+      "hash": "7bb90c43f4f5d1282c83ad3435e7fca5c26588e3fa800558a2a65bdb0b02458a",
+      "size": 226611
     },
     {
       "path": "config.json",
@@ -11365,8 +11395,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "0c413e93af769874dd01bf11ba742516f2f330dcae3cb57cab47c3d82575aa88",
-      "size": 2388326
+      "hash": "3922c4dc26ecb9bfd650840cfff0e7c0ee0bf93c115fd69dee0745cd2d9e1714",
+      "size": 2388460
     }
   ]
 }
