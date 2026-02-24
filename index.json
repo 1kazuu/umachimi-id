@@ -60,8 +60,8 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_footer_btn00/tx_uTex_fl_footer_btn00_0.diff.png",
-      "hash": "af8b367ea3e39ef25a21ac55319da9637924bb66cfd79592a97f3b32522f0975",
-      "size": 87370
+      "hash": "f62b02f5606e6b0332c04933a80029cf6344d25009c3b03ce260ed3808b7f426",
+      "size": 67934
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_footer_landscape_btn00/tx_uTex_fl_footer_landscape_btn00_0.diff.png",
@@ -820,8 +820,8 @@
     },
     {
       "path": "assets/atlas/common/common.diff.png",
-      "hash": "b1f9b2be5722aef8fa8ff73fc70ef43da79c28b30497041dd99ea33b56a6a198",
-      "size": 333446
+      "hash": "3fa1485948000fba1228079f8f34c9ee760f0b349ec5799e202e127a81682dc3",
+      "size": 432862
     },
     {
       "path": "assets/atlas/common/common.json",
@@ -860,8 +860,8 @@
     },
     {
       "path": "assets/atlas/home/home.diff.png",
-      "hash": "11af83d8ad028543c78060d8702cfaf17e75658e01b6463fc92795927dbeab11",
-      "size": 115078
+      "hash": "ec1d0464486e87fdc79db64db0e22c1127da711a140ff355c3aa3cf41f9a424d",
+      "size": 267928
     },
     {
       "path": "assets/atlas/home/home.json",
@@ -2020,8 +2020,8 @@
     },
     {
       "path": "assets/lyrics/m1151_lyrics.json",
-      "hash": "06e10d5f03818a5a7fa01aa04b000489a151b7edc6dbce165a85723c8862d333",
-      "size": 2093
+      "hash": "4a502ef76b7571999202b3231d13a6a4dd9d21f873011359b6d1c97e7ac4bc13",
+      "size": 2337
     },
     {
       "path": "assets/lyrics/m1152_lyrics.json",
@@ -2065,8 +2065,8 @@
     },
     {
       "path": "assets/lyrics/m1177_lyrics.json",
-      "hash": "ad45957391e43020f66ceecf51d9999d5ecc4a7002774b221ebaf402d5a03b4c",
-      "size": 1622
+      "hash": "d9bbdb0b52f7095949c4f0a741bc1fb2b550d073f312a91abf053a058f6f9f75",
+      "size": 1799
     },
     {
       "path": "assets/lyrics/m9051_lyrics.json",
@@ -15295,8 +15295,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "3480b4f214aa67b3f697fccaa4b1c12258ecf1a0f35785eb1825b8ddf5127e56",
-      "size": 2357384
+      "hash": "f9b68f48562c2c06cd7461967926a14f84efb7f898d8f2984ccd6a9dc3d3ebf5",
+      "size": 2357619
     }
   ]
 }
