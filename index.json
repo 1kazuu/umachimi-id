@@ -18395,8 +18395,8 @@
     },
     {
       "path": "hashed_dict.json",
-      "hash": "506b659e286a165ebc4d280ee7b1d84b45f5400b5db200836269040514ed5363",
-      "size": 16196
+      "hash": "676657ba508c70bace0e87eaa895815cf7f437ee1ded1992d8d0e0df19775b3a",
+      "size": 18260
     },
     {
       "path": "icon.png",
@@ -18420,8 +18420,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "926ed462c24ee065581ac1964a623531cb06f1317994cec05d8a61b6bca30485",
-      "size": 435850
+      "hash": "7f34996a6b9602b3db8ef97e2ffc387a34e28205432e434a5bc4f64af867236b",
+      "size": 438044
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -18435,13 +18435,13 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "57434a6f1ebd44ea2c3f1fcd4f1613e2272b52bc2a8965ff164eda7be0714f05",
-      "size": 2960540
+      "hash": "59cee42758038a6605024a6a024e3203cbe5b2db4b336b4e521cd69b6799a1db",
+      "size": 2960738
     },
     {
       "path": "text_settings.json",
-      "hash": "d974b0787f7ff14ae5bd1ae75cf14a044712b824566be61aafa6d133a57388da",
-      "size": 3097
+      "hash": "a6e35af480eb1b9662950eb4c0a2351a2d27151ef0ba32213accf4303f8105ef",
+      "size": 4157
     }
   ]
 }
