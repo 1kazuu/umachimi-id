@@ -2325,8 +2325,8 @@
     },
     {
       "path": "assets/home/data/00000/03/hometimeline_00000_03_0000068.json",
-      "hash": "2d90bb9b68bb8ac73e27a2a4bb5d17c3d815b6f8703738868a5e896a7f6b2db7",
-      "size": 2178
+      "hash": "fbfd3c0cfa45edb7051fdb38a2e52a4825123be15dfb59c1543b46ab5a37cdba",
+      "size": 2186
     },
     {
       "path": "assets/home/data/00001/02/hometimeline_00001_02_1021001.json",
@@ -3605,8 +3605,8 @@
     },
     {
       "path": "assets/story/data/02/0006/storytimeline_020006181.json",
-      "hash": "02cd5178fb3f58469a24b951822c8e7728036d9bf9baca4b8f7272a194d58758",
-      "size": 8073
+      "hash": "c191c64c0a6e64c4d514f68b4bf9c7243e15ba2f915c018ef49dec62bfecb6bb",
+      "size": 8079
     },
     {
       "path": "assets/story/data/02/0006/storytimeline_020006191.json",
@@ -4450,8 +4450,8 @@
     },
     {
       "path": "assets/story/data/04/1022/storytimeline_041022002.json",
-      "hash": "7ea1a7f7e0d430e3f49aadd2f8783824c55407d046fbdc07f389a8f967097eb7",
-      "size": 10025
+      "hash": "15b9e994d424368fbc9967340dec5bd08eb5cc2c9ef9a852c586b6efba549779",
+      "size": 10029
     },
     {
       "path": "assets/story/data/04/1022/storytimeline_041022003.json",
@@ -7780,8 +7780,8 @@
     },
     {
       "path": "assets/story/data/10/0000/storytimeline_100000005.json",
-      "hash": "ea3da625a67654ea952b3e693f9313c8c5428ee76feb000304cd58c922b50287",
-      "size": 1966
+      "hash": "54c87cb190852ff6c483e730e0e7d270f1a026d9de3df57c4e481b3d5147f639",
+      "size": 1970
     },
     {
       "path": "assets/story/data/10/0000/storytimeline_100000006.json",
@@ -7800,8 +7800,8 @@
     },
     {
       "path": "assets/story/data/10/0000/storytimeline_100000010.json",
-      "hash": "cef74773014d029eef83bcf8279f26cb86e056502d025592f7489fcd4070bb3c",
-      "size": 2765
+      "hash": "bc1557c6de80621cdac8a1815be814bfa8dfe3daf4c9d6ff1b774d9e0dbf0a77",
+      "size": 2769
     },
     {
       "path": "assets/story/data/10/0000/storytimeline_100000011.json",
@@ -7820,8 +7820,8 @@
     },
     {
       "path": "assets/story/data/10/0001/storytimeline_100001002.json",
-      "hash": "f54c5b59fee5f5569753b5be65fadb3d6d8dab3a960e137aa0ef3f4ec010a732",
-      "size": 8131
+      "hash": "f07214ac5eac0eae33030a7bf5bf84f2cd8bad4b4aaac06adf2922d087e770d9",
+      "size": 8139
     },
     {
       "path": "assets/story/data/10/0001/storytimeline_100001003.json",
@@ -9310,8 +9310,8 @@
     },
     {
       "path": "assets/story/data/83/0005/storytimeline_830005002.json",
-      "hash": "626442d54e701a71975f6552dc6f4f6267cb51302a6b8550bcc0f27bdc68e617",
-      "size": 3427
+      "hash": "dcafcd1a7e879f7f5e040770ba69354462cc9ce38ab2719288f89cbbc3c48baf",
+      "size": 3445
     },
     {
       "path": "assets/story/data/83/0005/storytimeline_830005003.json",
@@ -18940,8 +18940,8 @@
     },
     {
       "path": "character_system_text_dict.json",
-      "hash": "a9d1484e2af0629000781318f1b55af2b7c78edc014a90d86cd641a3df3ec220",
-      "size": 281653
+      "hash": "ff007305a88214909f96631ccd3c905e5aab61ae22d6ccac454cae3e08bcdb6a",
+      "size": 281512
     },
     {
       "path": "config.json",
@@ -18950,8 +18950,8 @@
     },
     {
       "path": "hashed_dict.json",
-      "hash": "dd24b61da3d589bb39169012f859e8c1695ad8c5ee94a725a9d63c8053f2e118",
-      "size": 19434
+      "hash": "50b488ae28dab90af178598e17c014ee862b46bd91ee5b8eee89ca3289039437",
+      "size": 19468
     },
     {
       "path": "icon.png",
@@ -18975,8 +18975,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "72a6f9ad738069f9d029ee710b4d9a1165fb03bf1b845c05e7476199839921ac",
-      "size": 438747
+      "hash": "a421f16a1f12661b653516241aab33fe59d9501bc0b6c4aa71d862df3426225a",
+      "size": 438860
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -18990,13 +18990,13 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "bb19f1c66d5d8bdea8ed3593b9e8bc427e852f9b9597a6f0788ccca78fe8129e",
-      "size": 3033421
+      "hash": "507306475c774e8a0b1baa19fb57bc74b504c0af71143b08668f1fd21f9162bd",
+      "size": 3034665
     },
     {
       "path": "text_settings.json",
-      "hash": "5a1b013510bfe20779c861378c28b0d2ca835732ccc018d742979dfaaa966c45",
-      "size": 6148
+      "hash": "597a6248e2188d44ac8dbc81b396694ce9297e3e6e1c23c19b77e4b3f550b7a0",
+      "size": 6882
     }
   ]
 }
