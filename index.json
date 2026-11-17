@@ -6875,8 +6875,8 @@
     },
     {
       "path": "assets/story/data/08/0000/storytimeline_080000005.json",
-      "hash": "f850f4b5dfe705722800e71853b35646247c68a45adec693da65c6d646632e29",
-      "size": 2375
+      "hash": "2f2401a3f779eb7a19233d94b2fac841f927fcf7467a52407c8526346422f6bf",
+      "size": 2452
     },
     {
       "path": "assets/story/data/08/0000/storytimeline_080000006.json",
@@ -19200,8 +19200,8 @@
     },
     {
       "path": "assets/uianimation/flash/singlemode/venus/pf_fl_singlemode_venus_header_turncounter00.json",
-      "hash": "d4d15328d5bdde66a39512b401d01bb6a7bb7f49ad28a0b8fbfe1dd11ade03c7",
-      "size": 3001
+      "hash": "c1e877b2d2f5356343bc1873da7edbb5d31ec420dd6884b942d0c45ebe3f528a",
+      "size": 3212
     },
     {
       "path": "assets/uianimation/flash/teamstadium/pf_fl_team_icon_winconfirm00.json",
@@ -19265,8 +19265,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "e2bd57b9970e82a7018dec887c9a0402c5490043fc8752db2c841c0c2d30e6a2",
-      "size": 446312
+      "hash": "7ca732d3a4a05154750643d3c2b06b5addf0e7b04a317816262b9272bea817d6",
+      "size": 446909
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -19280,13 +19280,13 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "6b50c0cd68ff80743600eacbe6d396e512492f548e7e956b2b0f3656220d967f",
-      "size": 3674116
+      "hash": "fed2aaebb7ef3f1083b3e2bd56f1602e231bc82adb19ac4206beeb842aec6910",
+      "size": 3674389
     },
     {
       "path": "text_settings.json",
-      "hash": "21056cb89f3bea74b6d4b5b9416bca97fa366de6a7c4a18db124ce5e36891bf1",
-      "size": 19605
+      "hash": "1dd3ee9ea9475356b939931f0421cb1f0fee5a5fe854bf0cbec5827bf0d39ca9",
+      "size": 23125
     }
   ]
 }
