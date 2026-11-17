@@ -1,6 +1,6 @@
 {
     "windows": {
-        "bundle_name": "VGJ3LXCHD4PO57VTSTKBFPCDKXBFSN42"
+        "bundle_name": "6NLJRGJGYLFRXSPQFBUANBPS5GLDBGQH"
     },
     "android": {
         "bundle_name": "APCLL6DUHVS4FRJG2ZWGN4OJ2QJQFN5F"
@@ -11,7 +11,7 @@
                 "text_param_list": {
                     "0": {
                         "position_offset": {
-                            "x": 0.02500000037252903,
+                            "x": -10,
                             "y": -3.0,
                             "z": 0.0
                         }
@@ -21,7 +21,12 @@
             "6": {
                 "text_param_list": {
                     "0": {
-                        "text": "Left"
+                        "text": "Tersisa",
+                        "position_offset": {
+                            "x": -10.0,
+                            "y": -0.02500000037252903,
+                            "z": 0.0
+                        }
                     }
                 }
             },
@@ -47,7 +52,7 @@
             "13": {
                 "text_param_list": {
                     "0": {
-                        "text": "SWBC race\nafter turn",
+                        "text": "SWBC race\nsetelah putaran",
                         "position_offset": {
                             "x": 0.02500000037252903,
                             "y": 1.0,
@@ -55,7 +60,7 @@
                         }
                     },
                     "1": {
-                        "text": "WBC race\nafter turn",
+                        "text": "WBC race\nsetelah putaran",
                         "position_offset": {
                             "x": 0.02500000037252903,
                             "y": 1.0,
@@ -63,7 +68,7 @@
                         }
                     },
                     "2": {
-                        "text": "GUR race\nafter turn",
+                        "text": "GUR race\nsetelah putaran",
                         "position_offset": {
                             "x": 0.02500000037252903,
                             "y": 1.0,
@@ -76,7 +81,7 @@
                 "text_param_list": {
                     "0": {
                         "position_offset": {
-                            "x": 8.0,
+                            "x": -10.0,
                             "y": -0.02500000037252903,
                             "z": 0.0
                         }
@@ -86,7 +91,7 @@
             "16": {
                 "text_param_list": {
                     "0": {
-                        "text": "Left"
+                        "text": "Tersisa"
                     }
                 }
             },

@@ -1,72 +1,72 @@
 {
-    "no_wrap": true,
+    "no_wrap": false,
     "text_block_list": [
         {
             "name": "Satono Diamond",
-            "text": "—— Are you all set to go?"
+            "text": "――Apa persiapannya sudah siap?"
         },
         {
             "name": "Satono Crown",
-            "text": "You look nervous, but it'll be alright. \nReliable guides will welcome you in \nthe VR world."
+            "text": "Tidak perlu terlalu tegang begitu.\nDi dunia VR, ada pembimbing yang siap bantu, kok."
         },
         {
             "name": "Satono Crown",
-            "text": "The very ones all Umamusume would consider \ntheir progenitors — the Three Goddesses!"
+            "text": "Sosok-sosok yang disebut sebagai leluhur para\nUmamusume―― yaitu Tiga Dewi yang agung!"
         },
         {
             "name": "Satono Diamond",
-            "text": "The races in the WBC will \ndefinitely be difficult ones."
+            "text": "Sepertinya WBC menjadi perlombaan yang ketat."
         },
         {
             "name": "Satono Diamond",
-            "text": "But I'm certain you can pull through! \nYou have the Grand Masters to aim for \nby winning all these races!"
+            "text": "Tapi, aku yakin kita pasti bisa menyelesaikannya！\nMari kita menangkan balapan dengan gemilang\ndan kuasai Grand Masters！"
         },
         {
-            "text": "This is the story of how we plunged \ninto a whole new world…!"
+            "text": "Dengan demikian, dimulailah perjalanan menuju\ndunia yang tak dikenal――！"
         },
         {
             "name": "Darley Arabian",
-            "text": "The sun rises, and sets again."
+            "text": "Matahari terbit, lalu perlahan terbenam."
         },
         {
             "name": "Byerley Turk",
-            "text": "Disappearing beyond a far-off horizon."
+            "text": "Menuju cakrawala yang terbentang jauh di sana."
         },
         {
             "name": "Godolphin Barb",
-            "text": "But it will always return."
+            "text": "Meski begitu, ia pasti akan terbit kembali."
         },
         {
             "name": "Godolphin Barb",
-            "text": "Rising to bathe us in its warmth \ntime and time again."
+            "text": "Berkali-kali, berulang kali, kita pasti akan\ndipertemukan kembali."
         },
         {
             "name": "Byerley Turk",
-            "text": "As long as our determination remains \nstrong, our hope, our love, and all of our \nemotions will live on in the same cycle."
+            "text": "Selama tekad yang kuat tak pernah padam,\nperasaan itu akan terus bersirkulasi."
         },
         {
             "name": "Darley Arabian",
-            "text": "To those who have come before, \nand those who are yet to be…"
+            "text": "Kepada mereka yang telah lahir di dunia ini.\nKepada mereka yang akan lahir di masa depan."
         },
         {
             "name": "Darley Arabian",
-            "text": "They bring new encounters and old farewells."
+            "text": "Mari persembahkan ini untuk setiap pertemuan dan perpisahan."
         },
         {
             "name": "Godolphin Barb",
-            "text": "They kindle blessings that \nlast through the ages."
+            "text": "Semoga kebahagiaan ini abadi selamanya."
         },
         {
             "name": "Byerley Turk",
-            "text": "They bring everlasting glory."
+            "text": "Menuju kejayaan abadi sepanjang masa."
         },
         {
             "name": "Darley Arabian",
-            "text": "And a future brimming with color."
+            "text": "Dan masa depan yang dipenuhi warna-warni kehidupan!"
         },
         {
-            "name": "The Three Goddesses",
-            "text": "The Grand Masters ～A tale of legacy～"
+            "name": "Tiga Dewi",
+            "text": "Grand Masters ～Kepada Mereka yang Mewarisi～"
         }
     ]
 }
