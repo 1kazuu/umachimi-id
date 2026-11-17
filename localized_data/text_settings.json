@@ -451,6 +451,71 @@
             "position_offset_x": 200,
             "position_offset_y": 3,
             "font_size": 33
+        },
+
+
+
+        " Skenario 5 ": {},
+        "/DialogSingleModeScenarioVenusScenarioRaceSchedule(Clone)/ContentRoot/PartsSingleModeScenarioVenusScenarioRaceListItem (0)/RemainTurn/あと": {
+            "position_offset_y": 25,
+            "position_offset_x": 110
+        },
+        "/DialogSingleModeScenarioVenusScenarioRaceSchedule(Clone)/ContentRoot/PartsSingleModeScenarioVenusScenarioRaceListItem (0)/RemainTurn/10ターン": {
+            "position_offset_y": -15
+        },
+        "/DialogSingleModeScenarioVenusScenarioRaceSchedule(Clone)/ContentRoot/PartsSingleModeScenarioVenusScenarioRaceListItem (1)/RemainTurn/あと": {
+            "position_offset_y": 25,
+            "position_offset_x": 110
+        },
+        "/DialogSingleModeScenarioVenusScenarioRaceSchedule(Clone)/ContentRoot/PartsSingleModeScenarioVenusScenarioRaceListItem (1)/RemainTurn/10ターン": {
+            "position_offset_y": -15
+        },
+        "/DialogSingleModeScenarioVenusScenarioRaceSchedule(Clone)/ContentRoot/PartsSingleModeScenarioVenusScenarioRaceListItem (2)/RemainTurn/あと": {
+            "position_offset_y": 25,
+            "position_offset_x": 110
+        },
+        "/DialogSingleModeScenarioVenusScenarioRaceSchedule(Clone)/ContentRoot/PartsSingleModeScenarioVenusScenarioRaceListItem (2)/RemainTurn/10ターン": {
+            "position_offset_y": -15
+        },
+         "/DialogSingleModeScenarioVenusScenarioRaceList(Clone)/Base/PartsSingleModeScenarioVenusScenarioRaceListItem (0)/RemainTurn/あと": {
+            "position_offset_y": 25,
+            "position_offset_x": 110
+        },
+        "/DialogSingleModeScenarioVenusScenarioRaceList(Clone)/Base/PartsSingleModeScenarioVenusScenarioRaceListItem (0)/RemainTurn/10ターン": {
+            "position_offset_y": -15
+        },
+         "/DialogSingleModeScenarioVenusScenarioRaceList(Clone)/Base/PartsSingleModeScenarioVenusScenarioRaceListItem (1)/RemainTurn/あと": {
+            "position_offset_y": 25,
+            "position_offset_x": 110
+        },
+        "/DialogSingleModeScenarioVenusScenarioRaceList(Clone)/Base/PartsSingleModeScenarioVenusScenarioRaceListItem (1)/RemainTurn/10ターン": {
+            "position_offset_y": -15
+        },
+         "/DialogSingleModeScenarioVenusScenarioRaceList(Clone)/Base/PartsSingleModeScenarioVenusScenarioRaceListItem (2)/RemainTurn/あと": {
+            "position_offset_y": 25,
+            "position_offset_x": 110
+        },
+        "/DialogSingleModeScenarioVenusScenarioRaceList(Clone)/Base/PartsSingleModeScenarioVenusScenarioRaceListItem (2)/RemainTurn/10ターン": {
+            "position_offset_y": -15
+        },
+        "/DialogSingleModeScenarioVenusSpiritHistory(Clone)/ContentsRoot/VenusSpiritFrameImage/VenusSpiritNameText": {
+            "horizontal_overflow": 0,
+            "extents_x": 400.0
+        },
+        "/PartsSingleModeScenarioVenusCharaInfo00/Image/PartsSingleModeScenarioVenusCharaLevelText/NonLevelText": {
+            "font_size": 27,
+            "horizontal_overflow": 0,
+            "extents_x": 150.0
+        },
+         "/PartsSingleModeScenarioVenusCharaInfo01/Image/PartsSingleModeScenarioVenusCharaLevelText/NonLevelText": {
+            "font_size": 27,
+            "horizontal_overflow": 0,
+            "extents_x": 150.0
+        },
+         "/PartsSingleModeScenarioVenusCharaInfo02/Image/PartsSingleModeScenarioVenusCharaLevelText/NonLevelText": {
+            "font_size": 27,
+            "horizontal_overflow": 0,
+            "extents_x": 150.0
         }
     }
 }
