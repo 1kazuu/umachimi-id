@@ -59761,9 +59761,10 @@
     "25": "Event Recovery\\nUp",
     "26": "Event Effect\\nUp",
     "27": "Proteksi Kegagalan",
-    "28": "Diskon Energi",
-    "30": "Skill Point\\nBonus",
-    "31": "Wit Training\\nRecovery Up"
+    "28": "Pengurangan\nKonsumsi Energi",
+    "30": "Bonus Skill Pt.",
+    "31": "Pemulihan\nLatihan Wit",
+    "32": "Bonus Skill Pt.\nAwal"
   },
   "295": {
     "1": "Speed",
